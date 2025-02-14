@@ -1,0 +1,15 @@
+Dimension - 
+
+Mobile - 
+1. main - 311px X 722px
+2. community - 311px X 266
+3. subscription - 311px X 228
+4. about - 311px X 228
+5. button - 264 X 48
+
+Desktop -
+1. main - 630 X 480
+2. community -  630 X 220
+3. subscription - 315px X 260px
+4. about - 315px X 260px
+5. button - 236 X 48
